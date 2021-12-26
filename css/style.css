@@ -1,0 +1,52 @@
+a:link {
+	font-family: 'Outfit', sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+}
+a:visited {
+	font-family: 'Outfit', sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+}
+a:hover {
+	font-family: 'Outfit', sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+}
+a:active {
+	font-family: 'Outfit', sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.header {
+    padding: 8px;
+    background: rgb(216, 59, 59);
+    color: white;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+body {
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+}
+
+.footer {
+    padding: 8px;
+    background: rgb(216, 59, 59);
+    font-size: 18px;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
