@@ -16,7 +16,7 @@ Home Page:
 7.1) "Update" - Allows the user the edit the information about the given recipe.
 7.2) "Delete" - Deletes the recipe from the database.
 
-Add recipe/Edit Recipe pages:
+Add Recipe/Edit Recipe pages:
 1) "Back" - Redirects to the homepage.
 2) Input fields - Realistically all of them are optional except the Recipe Name field, which returns an error if the user tries to add the recipe and has left it empty.
 3) Checkboxes - Saves in the database whether the recipe contains any of the given ingredients.
