@@ -18,7 +18,7 @@ Home Page:
 
 Add Recipe/Edit Recipe pages:
 1) "Back" - Redirects to the homepage.
-2) Input fields - Realistically all of them are optional except the Recipe Name field, which returns an error if the user tries to add the recipe and has left it empty.
+2) Input fields - Realistically all of them are optional except the Recipe Name field, which returns an error if the user tries to add the recipe and has left the name empty.
 3) Checkboxes - Saves in the database whether the recipe contains any of the given ingredients.
 4) "Add/Update" button - Submits the form and saves the new or updated information in the database.
 
